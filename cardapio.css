@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+}
+html {
+    background-image: url(https://besthqwallpapers.com/Uploads/18-2-2021/155654/thumb2-hamburger-neon-icon-4k-red-background-neon-symbols-hamburger.jpg);
+    opacity: 0.9;
+    height:600px; 
+    width:600px;
+ 
+    }
+ h1{
+         width: 190.09%;
+        text-shadow: 3px 3px 1px rgb(9, 4, 5);
+        background-image: url(https://media.istockphoto.com/vectors/seamless-pattern-burgers-on-black-background-burger-menu-for-menu-vector-id1169546307?k=20&m=1169546307&s=170667a&w=0&h=RuO69SuJoIu2e4uBOyI2HYp3l7MI1xJjCrcf5NtQmuI=);
+        color: darkgray;
+        font-family: "Ranchers";
+        font-size: 50px;
+        text-align: center;
+        border: 5px solid;
+        border-color: brown;
+        padding: 1px 100px;
+        box-shadow: 5px 5px 5px black;
+        box-sizing: content-box;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px black;
+        
+         }
+        
+
+div{
+   
+    background-image: url(https://i.pinimg.com/474x/17/9a/72/179a723f2d5d905e2e4c980db4018eaa.jpg);
+    border-top: 10px;
+    float: left;
+    border: yellow solid;
+    padding: 5px;
+    margin-left: 60%;
+    margin-bottom: 50%;
+    box-shadow: 10px 6px 6px 6px black;
+    border-radius: 20px;
+    
+    
+}
+
+
+p,a{
+    font-family: "Ranchers";
+    color: #956;
+    font-size: 25px;
+    
+   
+}
+
+
+
+
+
+
+
