@@ -1,6 +1,19 @@
+
+    /*
+    Folha de estilização da Página de Cardápio Mestre Burguer!
+    */
+    /*
+    Definindo Margem 0 Para todos os elementos da página Inicial
+    */
 *{
     margin: 0;
 }
+    /*
+    Aqui foi definido as dimensões da página de cárdapio, 
+    também utilizada como imagem de fundo um link de imagem externo
+    e definição da opacidade da imagem.
+
+    */
 html {
     background-image: url(https://besthqwallpapers.com/Uploads/18-2-2021/155654/thumb2-hamburger-neon-icon-4k-red-background-neon-symbols-hamburger.jpg);
     opacity: 0.9;
@@ -8,6 +21,12 @@ html {
     width:600px;
  
     }
+
+    /*
+    Estilização do Título da página de Cardapio
+    em formato de caixa
+    também utiliza-se de imagem externa como imagem de fundo da caixa.
+    */
  h1{
          width: 190.09%;
         text-shadow: 3px 3px 1px rgb(9, 4, 5);
@@ -26,7 +45,11 @@ html {
         
          }
         
-
+ /*
+    Estilização da Imagem do cardápio
+    também foi utilizado um modelo de caixa
+    com uma imagem de fundo externa.
+    */
 div{
    
     background-image: url(https://i.pinimg.com/474x/17/9a/72/179a723f2d5d905e2e4c980db4018eaa.jpg);
@@ -42,7 +65,9 @@ div{
     
 }
 
-
+    /*
+    Rápida estilização dos parágrafos e links
+    */
 p,a{
     font-family: "Ranchers";
     color: #956;

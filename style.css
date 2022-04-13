@@ -1,6 +1,17 @@
+  /*
+  Folha de estilização da Página Inicial da Mestre Burguer!
+  */
+  /*
+  Definindo Margem 0 Para todos os elementos da página Inicial
+  */
 *{
     margin: 0;
 }
+  /*
+  Usando imagem externa como background da página (imagem de fundo) em toda página do arquivo index.html principal
+  e também definindo a opacidade da imagem.
+
+  */
 
 html {
   background-image: url(https://besthqwallpapers.com/Uploads/18-2-2021/155654/thumb2-hamburger-neon-icon-4k-red-background-neon-symbols-hamburger.jpg);
@@ -8,6 +19,9 @@ html {
 
   }
 
+    /*
+    Estilização Da logo da Hamburgueria, utiliza-se um efeito de relevo.
+    */
   
   img {
     display: block;
@@ -19,7 +33,10 @@ html {
     
   }
 
-
+  /*
+  Estilização do Título da Página Principal em modelo de caixa
+  utiliza-se uma imagem externa como imagem de fundo.
+  */
 #titulo{
 
  text-shadow: 3px 3px 1px rgb(9, 4, 5);
@@ -36,14 +53,18 @@ html {
  
 
  
- 
+  /*
+  Tag strong definida para o nome "Burguer" inserido no título
+  e destacado com diferente do nome "Mestre"
+  */
 }
 strong{
   color:  #533;
 }
 
 
-
+  /*Definindo estilização dos parágrafos da página inicial
+  */
 p{
   text-shadow: 3px 3px 1px black;
     font-size: 25px;
@@ -55,6 +76,10 @@ p{
     
 }
 
+  /*
+  Estilizando Div em modelo de caixa que é utilizada na página inicial
+  como conteúdo de informações sobre a hamburgueria. Utiliza-se imagem externa como fundo.
+  */
 div{
   
   width: 800px;
@@ -68,6 +93,9 @@ div{
   
 }
 
+  /*
+  Estilizando textos de ordem h3 contidas dentro da caixa div
+  */
 h3{
   text-shadow: 3px 3px 1px black;
   color: darkslategray; 
@@ -77,6 +105,9 @@ h3{
   
 }
 
+  /*
+  Estilizando textos de ordem h2 contidas dentro da caixa div
+  */
 h2{
   text-shadow: 3px 3px 1px black;
   color: darkslategrey;
@@ -85,6 +116,9 @@ h2{
   text-align: center;
 }
 
+  /*
+  Estilizando o ícone que direciona a página ao Instagram da Hamburgueria.
+  */
 #Logoig{
   text-shadow: 3px 3px 1px black;
   font-size: 25px;
@@ -96,7 +130,9 @@ h2{
 }
 
 
-
+  /*
+  Estilizando links e listas contidas na página Principal.
+  */
 li, a{
   text-shadow: 3px 3px 1px black;
   font-size: 25px;
@@ -108,7 +144,9 @@ li, a{
   text-align: justify;
  
 }
-
+  /*
+  Estilizando o Menu de Navegação entre a Página Principal e a Página de cardápio
+  */
 .menu{
  background-image: url(https://media.istockphoto.com/vectors/seamless-pattern-burgers-on-black-background-burger-menu-for-menu-vector-id1169546307?k=20&m=1169546307&s=170667a&w=0&h=RuO69SuJoIu2e4uBOyI2HYp3l7MI1xJjCrcf5NtQmuI=);
  width: 250px;
